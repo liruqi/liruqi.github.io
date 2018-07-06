@@ -1,0 +1,8 @@
+title: Ruqi's Laboratory
+description: liruqi's opensource projects & internet services
+google_analytics: UA-7404902-15
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
